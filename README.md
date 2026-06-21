@@ -19,14 +19,17 @@ Multi-tenant business management for restaurants, spas, and retail — POS, quic
 | Platform | Download | Requires |
 | --- | --- | --- |
 | **macOS** · Apple Silicon + Intel | [Qorelly-1.0.0-macOS.dmg](https://github.com/usecorehq/qorelly-releases/releases/download/v1.0.0/Qorelly-1.0.0-macOS.dmg) | macOS 10.15+ |
+| **Windows** · x64 | [Qorelly-1.0.0-Windows.zip](https://github.com/usecorehq/qorelly-releases/raw/main/Qorelly-1.0.0-Windows.zip) | Windows 10+ |
 
 ## Install
+
+### macOS
 
 1. Download **`Qorelly-1.0.0-macOS.dmg`**.
 2. Open the DMG and drag **Qorelly** into your **Applications** folder.
 3. Launch Qorelly from Applications.
 
-### ⚠️ First launch: "Qorelly can't be opened"
+#### ⚠️ First launch: "Qorelly can't be opened"
 
 This early build isn't notarized by Apple yet, so macOS will warn you the first time. It's expected and safe — pick whichever works:
 
@@ -38,6 +41,12 @@ This early build isn't notarized by Apple yet, so macOS will warn you the first 
 - Or go to **System Settings → Privacy & Security**, scroll down, and click **"Open Anyway"**.
 
 You only need to do this once. A fully signed & notarized build (no warnings) is coming in **v1.0.1**.
+
+### Windows
+
+1. Download **`Qorelly-1.0.0-Windows.zip`**.
+2. Extract the contents of the ZIP folder to your preferred location (e.g., `C:\Program Files\Qorelly` or your Desktop).
+3. Run **`qorelly_mobile.exe`** to launch the app.
 
 ## All releases
 
