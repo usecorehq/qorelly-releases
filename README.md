@@ -19,7 +19,7 @@ Multi-tenant business management for restaurants, spas, and retail — POS, quic
 | Platform | Download | Requires |
 | --- | --- | --- |
 | **macOS** · Apple Silicon + Intel | [Qorelly-1.0.0-macOS.dmg](https://github.com/usecorehq/qorelly-releases/releases/download/v1.0.0/Qorelly-1.0.0-macOS.dmg) | macOS 10.15+ |
-| **Windows** · x64 | [Qorelly-1.0.0-Windows-Setup.exe](https://github.com/usecorehq/qorelly-releases/raw/main/Qorelly-1.0.0-Windows-Setup.exe) | Windows 10+ |
+| **Windows** · x64 | [Qorelly-1.0.1-Windows-Setup.exe](https://github.com/usecorehq/qorelly-releases/raw/main/Qorelly-1.0.1-Windows-Setup.exe) | Windows 10+ |
 
 ## Install
 
@@ -44,7 +44,7 @@ You only need to do this once. A fully signed & notarized build (no warnings) is
 
 ### Windows
 
-1. Download **`Qorelly-1.0.0-Windows-Setup.exe`**.
+1. Download **`Qorelly-1.0.1-Windows-Setup.exe`**.
 2. Run the installer and follow the setup wizard (this installs Qorelly and creates desktop & start menu shortcuts).
 3. Launch **Qorelly** from your desktop or start menu.
 
